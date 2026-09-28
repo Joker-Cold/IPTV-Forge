@@ -1,0 +1,949 @@
+[
+ {
+  "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+  "sites": 435,
+  "size": 117629,
+  "name": "多蜜PY",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/gtly",
+  "sites": 298,
+  "size": 90966,
+  "name": "游魂┃高天流云",
+  "dupes": []
+ },
+ {
+  "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+  "sites": 298,
+  "size": 51621,
+  "name": "高天流云js",
+  "dupes": [
+   "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+   "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+  ]
+ },
+ {
+  "url": "https://raw.liucn.cc/box/m.json",
+  "sites": 234,
+  "size": 57874,
+  "name": "刘备",
+  "dupes": [
+   "https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json"
+  ]
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
+  "sites": 193,
+  "size": 94592,
+  "name": "业余",
+  "dupes": []
+ },
+ {
+  "url": "https://raw.githubusercontent.com/maoystv/6/main/000.json",
+  "sites": 170,
+  "size": 80904,
+  "name": "猫云分享",
+  "dupes": []
+ },
+ {
+  "url": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/001.json",
+  "sites": 168,
+  "size": 83634,
+  "name": "猫云分享者",
+  "dupes": [
+   "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/001.json"
+  ]
+ },
+ {
+  "url": "https://17264.kstore.space/哈基米.png",
+  "sites": 167,
+  "size": 66519,
+  "name": "哈基米",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/hjm",
+  "sites": 167,
+  "size": 36388,
+  "name": "游魂┃哈基米",
+  "dupes": []
+ },
+ {
+  "url": "https://qist.wyfc.qzz.io/jsm.json",
+  "sites": 163,
+  "size": 50804,
+  "name": "qist聚是猫",
+  "dupes": [
+   "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
+  ]
+ },
+ {
+  "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+  "sites": 151,
+  "size": 46130,
+  "name": "yw影视",
+  "dupes": [
+   "https://ghproxy.net/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
+  ]
+ },
+ {
+  "url": "http://47.96.82.41:8/api.json",
+  "sites": 136,
+  "size": 59908,
+  "name": "软件哥哥",
+  "dupes": []
+ },
+ {
+  "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+  "sites": 136,
+  "size": 54423,
+  "name": "小苹果接口",
+  "dupes": []
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/tvboxqq/潇洒/api.json",
+  "sites": 126,
+  "size": 58809,
+  "name": "潇洒",
+  "dupes": []
+ },
+ {
+  "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json",
+  "sites": 126,
+  "size": 29481,
+  "name": "玄珠",
+  "dupes": []
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.json",
+  "sites": 125,
+  "size": 39822,
+  "name": "七夏",
+  "dupes": []
+ },
+ {
+  "url": "https://qist.wyfc.qzz.io/xiaosa/api.json",
+  "sites": 120,
+  "size": 31131,
+  "name": "添加潇洒",
+  "dupes": [
+   "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"
+  ]
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/tvboxqq/欧歌/api.json",
+  "sites": 107,
+  "size": 56143,
+  "name": "欧歌",
+  "dupes": []
+ },
+ {
+  "url": "https://play.iptv365.org/%E6%91%B8%E9%B1%BC%E5%84%BF/api.json",
+  "sites": 107,
+  "size": 49767,
+  "name": "摸鱼(备用)",
+  "dupes": []
+ },
+ {
+  "url": "http://550.3vcn.work/wdjyys.json",
+  "sites": 106,
+  "size": 69634,
+  "name": "我的家园",
+  "dupes": []
+ },
+ {
+  "url": "https://play.iptv365.org/%E8%8F%9C%E5%A6%AE%E4%B8%9D/api.json",
+  "sites": 104,
+  "size": 34742,
+  "name": "菜妮丝2",
+  "dupes": []
+ },
+ {
+  "url": "http://www.小不点.com",
+  "sites": 99,
+  "size": 32609,
+  "name": "摸鱼",
+  "dupes": [
+   "http://我不是.摸鱼儿.top"
+  ]
+ },
+ {
+  "url": "https://6800.kstore.vip/fish.json",
+  "sites": 99,
+  "size": 32578,
+  "name": "摸鱼2",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/my",
+  "sites": 99,
+  "size": 20347,
+  "name": "游魂┃摸鱼",
+  "dupes": []
+ },
+ {
+  "url": "http://xhztv.top/dc/%E7%A5%9E%E4%BB%99/api.json",
+  "sites": 94,
+  "size": 34658,
+  "name": "神仙",
+  "dupes": []
+ },
+ {
+  "url": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+  "sites": 93,
+  "size": 54884,
+  "name": "东篱线路",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/dongli",
+  "sites": 93,
+  "size": 29703,
+  "name": "游魂┃东篱",
+  "dupes": []
+ },
+ {
+  "url": "https://盒子迷.top/禁止贩卖",
+  "sites": 91,
+  "size": 44175,
+  "name": "盒子迷",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/duo",
+  "sites": 89,
+  "size": 37680,
+  "name": "游魂┃多多",
+  "dupes": []
+ },
+ {
+  "url": "https://clun.top/box.json",
+  "sites": 88,
+  "size": 33346,
+  "name": "clun",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/aowu",
+  "sites": 87,
+  "size": 16510,
+  "name": "游魂┃嗷呜",
+  "dupes": []
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/tvboxqq/王二小/api.json",
+  "sites": 85,
+  "size": 28057,
+  "name": "王二小",
+  "dupes": []
+ },
+ {
+  "url": "http://ygbhbox.3vfree.club/pg/jsm.json",
+  "sites": 85,
+  "size": 26814,
+  "name": "宝盒没宝",
+  "dupes": []
+ },
+ {
+  "url": "https://9280.kstore.vip/newwex.json",
+  "sites": 84,
+  "size": 24573,
+  "name": "王小二放牛娃新接口",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/newwex",
+  "sites": 84,
+  "size": 16069,
+  "name": "游魂┃王二小(新)",
+  "dupes": []
+ },
+ {
+  "url": "http://fmys.top/fmys.json",
+  "sites": 82,
+  "size": 45446,
+  "name": "蜂蜜影视",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/fuma",
+  "sites": 82,
+  "size": 24330,
+  "name": "游魂┃驸马",
+  "dupes": []
+ },
+ {
+  "url": "https://ysys.lic10.cn/ys/",
+  "sites": 80,
+  "size": 26153,
+  "name": "余生",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/ys",
+  "sites": 80,
+  "size": 18074,
+  "name": "😹游魂┃余生",
+  "dupes": []
+ },
+ {
+  "url": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/api.json",
+  "sites": 78,
+  "size": 47733,
+  "name": "南风3",
+  "dupes": []
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+  "sites": 77,
+  "size": 31134,
+  "name": "寳盒",
+  "dupes": []
+ },
+ {
+  "url": "https://play.iptv365.org/OK/api.json",
+  "sites": 76,
+  "size": 37947,
+  "name": "OK杰克",
+  "dupes": []
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/tvboxqq/南风/api.json",
+  "sites": 75,
+  "size": 68546,
+  "name": "南风",
+  "dupes": []
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/tvboxqq/摸鱼儿/api.json",
+  "sites": 75,
+  "size": 36281,
+  "name": "摸鱼儿",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/pg",
+  "sites": 74,
+  "size": 31204,
+  "name": "游魂┃PG",
+  "dupes": []
+ },
+ {
+  "url": "https://d.kstore.dev/download/9280/wex.json",
+  "sites": 67,
+  "size": 20664,
+  "name": "王二小放牛娃",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/wex",
+  "sites": 67,
+  "size": 13462,
+  "name": "游魂┃王二小",
+  "dupes": []
+ },
+ {
+  "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+  "sites": 64,
+  "size": 34512,
+  "name": "健康家用",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/xhb",
+  "sites": 63,
+  "size": 13949,
+  "name": "游魂┃小虎斑",
+  "dupes": []
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/tvboxqq/小虎斑/api.json",
+  "sites": 62,
+  "size": 26306,
+  "name": "小虎斑",
+  "dupes": []
+ },
+ {
+  "url": "https://szyyds.cn/tv/x.json",
+  "sites": 61,
+  "size": 30212,
+  "name": "闪电影视",
+  "dupes": [
+   "http://szyyds.cn/tv/x.json"
+  ]
+ },
+ {
+  "url": "https://play.iptv365.org/%E8%82%A5%E7%8C%AB/api.json",
+  "sites": 61,
+  "size": 23017,
+  "name": "肥猫(临时)",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/lns",
+  "sites": 55,
+  "size": 12340,
+  "name": "游魂┃菜妮丝",
+  "dupes": []
+ },
+ {
+  "url": "http://xhztv.top/xhz",
+  "sites": 54,
+  "size": 19728,
+  "name": "小盒子",
+  "dupes": [
+   "http://xhztv.top/xhz/"
+  ]
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/tvboxqq/香雅情/api.json",
+  "sites": 51,
+  "size": 33542,
+  "name": "香雅情",
+  "dupes": []
+ },
+ {
+  "url": "https://qist.wyfc.qzz.io/fty.json",
+  "sites": 50,
+  "size": 13423,
+  "name": "添加饭太硬",
+  "dupes": [
+   "https://raw.githubusercontent.com/qist/tvbox/master/fty.json"
+  ]
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/fty",
+  "sites": 50,
+  "size": 13112,
+  "name": "游魂┃饭太硬",
+  "dupes": []
+ },
+ {
+  "url": "https://dxawi.github.io/0/0.json",
+  "sites": 48,
+  "size": 18598,
+  "name": "dxawi",
+  "dupes": [
+   "http://dxawi.github.io/0/0.json"
+  ]
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/nb",
+  "sites": 48,
+  "size": 9804,
+  "name": "游魂┃牛播一",
+  "dupes": []
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/tvboxqq/饭太硬/api.json",
+  "sites": 47,
+  "size": 20204,
+  "name": "饭太硬",
+  "dupes": []
+ },
+ {
+  "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json",
+  "sites": 46,
+  "size": 18841,
+  "name": "鸡哥",
+  "dupes": []
+ },
+ {
+  "url": "https://ztha.top/TVBox/thdjk.json",
+  "sites": 46,
+  "size": 16530,
+  "name": "ZTHA",
+  "dupes": [
+   "http://ztha.top/TVBox/thdjk.json"
+  ]
+ },
+ {
+  "url": "https://android.lushunming.qzz.io/json/index.json",
+  "sites": 43,
+  "size": 25215,
+  "name": "佬线路",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/zx",
+  "sites": 43,
+  "size": 12757,
+  "name": "游魂┃真心",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/xiaomi",
+  "sites": 43,
+  "size": 12562,
+  "name": "游魂┃小米",
+  "dupes": []
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/tvboxqq/肥猫/api.json",
+  "sites": 39,
+  "size": 20068,
+  "name": "肥猫",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/fm",
+  "sites": 39,
+  "size": 10627,
+  "name": "游魂┃肥猫",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/dl",
+  "sites": 37,
+  "size": 25143,
+  "name": "游魂┃D佬",
+  "dupes": []
+ },
+ {
+  "url": "https://play.iptv365.org/%E5%B0%8F%E7%B1%B3/api.json",
+  "sites": 36,
+  "size": 17736,
+  "name": "小米2",
+  "dupes": []
+ },
+ {
+  "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
+  "sites": 35,
+  "size": 26950,
+  "name": "短剧专线",
+  "dupes": [
+   "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json"
+  ]
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/dj",
+  "sites": 35,
+  "size": 15778,
+  "name": "🎥游魂┃短剧",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/sepd",
+  "sites": 35,
+  "size": 14467,
+  "name": "👼游魂┃少儿频道",
+  "dupes": []
+ },
+ {
+  "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+  "sites": 33,
+  "size": 9973,
+  "name": "FongMI线路",
+  "dupes": [
+   "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
+  ]
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/tvboxqq/小米/api.json",
+  "sites": 31,
+  "size": 14564,
+  "name": "小米",
+  "dupes": []
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/tvboxqq/少儿频道/api.json",
+  "sites": 30,
+  "size": 36205,
+  "name": "少儿频道",
+  "dupes": []
+ },
+ {
+  "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json",
+  "sites": 30,
+  "size": 28093,
+  "name": "茄子库",
+  "dupes": []
+ },
+ {
+  "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json",
+  "sites": 28,
+  "size": 20844,
+  "name": "凯迪",
+  "dupes": []
+ },
+ {
+  "url": "https://www.yingm.cc/dm/dm.json",
+  "sites": 27,
+  "size": 8737,
+  "name": "影迷动漫",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/dmc",
+  "sites": 27,
+  "size": 6269,
+  "name": "🎨游魂┃动漫城",
+  "dupes": []
+ },
+ {
+  "url": "http://api.fumilong.com/%E7%93%9C%E5%AD%90.json",
+  "sites": 25,
+  "size": 28310,
+  "name": "瓜子",
+  "dupes": []
+ },
+ {
+  "url": "http://home.jundie.top:81/top98.json",
+  "sites": 24,
+  "size": 16543,
+  "name": "俊于",
+  "dupes": []
+ },
+ {
+  "url": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json",
+  "sites": 23,
+  "size": 11386,
+  "name": "金字塔UndCover",
+  "dupes": []
+ },
+ {
+  "url": "http://zhangqun1818.serv00.net/zq/api.json",
+  "sites": 19,
+  "size": 12834,
+  "name": "张群",
+  "dupes": []
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/tvboxqq/戏曲音乐/api.json",
+  "sites": 10,
+  "size": 13879,
+  "name": "戏曲音乐",
+  "dupes": []
+ },
+ {
+  "url": "https://乐哥.xyz/dj.json",
+  "sites": 2,
+  "size": 20453,
+  "name": "乐哥",
+  "dupes": []
+ },
+ {
+  "url": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
+  "sites": 0,
+  "size": 511279,
+  "name": "雷蒙",
+  "dupes": [
+   "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json"
+  ]
+ },
+ {
+  "url": "https://cdn.githubraw.com/xuexuguang/tvbox_spider/main/tv/kk/heroaku_dtes.json",
+  "sites": 0,
+  "size": 179240,
+  "name": "学旭光",
+  "dupes": []
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
+  "sites": 0,
+  "size": 142159,
+  "name": "月光宝盒",
+  "dupes": []
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json",
+  "sites": 0,
+  "size": 130992,
+  "name": "时光机",
+  "dupes": []
+ },
+ {
+  "url": "https://tv.蜗牛.top/svip",
+  "sites": 0,
+  "size": 117040,
+  "name": "蜗牛",
+  "dupes": [
+   "http://tv.xn--11x555b.top/svip"
+  ]
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/12.html",
+  "sites": 0,
+  "size": 114010,
+  "name": "分享(欧歌线)",
+  "dupes": []
+ },
+ {
+  "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+  "sites": 0,
+  "size": 112052,
+  "name": "夜猫",
+  "dupes": []
+ },
+ {
+  "url": "https://jiekou.netlify.app/svip.json",
+  "sites": 0,
+  "size": 108349,
+  "name": "接口SVIP",
+  "dupes": [
+   "https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
+   "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
+   "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
+  ]
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/pro.json",
+  "sites": 0,
+  "size": 101236,
+  "name": "宝盒4K",
+  "dupes": []
+ },
+ {
+  "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
+  "sites": 0,
+  "size": 95836,
+  "name": "胡聪荣",
+  "dupes": []
+ },
+ {
+  "url": "https://kjsc0310.github.io/tvy/jk9.json",
+  "sites": 0,
+  "size": 83432,
+  "name": "小苹果",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/nf",
+  "sites": 0,
+  "size": 79881,
+  "name": "游魂┃南风",
+  "dupes": [
+   "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+   "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+   "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+  ]
+ },
+ {
+  "url": "https://box.iqinu.com/",
+  "sites": 0,
+  "size": 67662,
+  "name": "奇努盒子",
+  "dupes": []
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/18.html",
+  "sites": 0,
+  "size": 65070,
+  "name": "附马(欧歌线)",
+  "dupes": []
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/13.html",
+  "sites": 0,
+  "size": 62502,
+  "name": "多多(欧歌线)",
+  "dupes": []
+ },
+ {
+  "url": "https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
+  "sites": 0,
+  "size": 56672,
+  "name": "橘子柚",
+  "dupes": []
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/20.html",
+  "sites": 0,
+  "size": 55698,
+  "name": "南风(欧歌线)",
+  "dupes": []
+ },
+ {
+  "url": "http://hb.小虎斑.site:25252/仅供测试",
+  "sites": 0,
+  "size": 53840,
+  "name": "小虎斑2",
+  "dupes": []
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/10.html",
+  "sites": 0,
+  "size": 45890,
+  "name": "摸鱼(欧歌线)",
+  "dupes": []
+ },
+ {
+  "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+  "sites": 0,
+  "size": 45331,
+  "name": "宝盒VIP",
+  "dupes": [
+   "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
+  ]
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/14.html",
+  "sites": 0,
+  "size": 41190,
+  "name": "七星(欧歌线)",
+  "dupes": []
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/8.html",
+  "sites": 0,
+  "size": 37662,
+  "name": "王二小(欧歌线)",
+  "dupes": []
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/11.html",
+  "sites": 0,
+  "size": 36566,
+  "name": "裤佬(欧歌线)",
+  "dupes": []
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/17.html",
+  "sites": 0,
+  "size": 34650,
+  "name": "胜寒(欧歌线)",
+  "dupes": []
+ },
+ {
+  "url": "http://肥猫.net/tv",
+  "sites": 0,
+  "size": 32174,
+  "name": "肥猫2",
+  "dupes": []
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/19.html",
+  "sites": 0,
+  "size": 31454,
+  "name": "小屋(欧歌线)",
+  "dupes": []
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/15.html",
+  "sites": 0,
+  "size": 31266,
+  "name": "真心(欧歌线)",
+  "dupes": []
+ },
+ {
+  "url": "http://xhztv.top/4k.json",
+  "sites": 0,
+  "size": 30612,
+  "name": "小盒子4K",
+  "dupes": []
+ },
+ {
+  "url": "https://www.wya6.cn/tv/yc.json",
+  "sites": 0,
+  "size": 30444,
+  "name": "无意线路",
+  "dupes": []
+ },
+ {
+  "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+  "sites": 0,
+  "size": 24820,
+  "name": "香雅情2",
+  "dupes": [
+   "https://gh-proxy.org/https:/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+   "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+  ]
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/21.html",
+  "sites": 0,
+  "size": 24466,
+  "name": "杰哥(欧歌线)",
+  "dupes": []
+ },
+ {
+  "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json",
+  "sites": 0,
+  "size": 23457,
+  "name": "胜寒",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/et",
+  "sites": 0,
+  "size": 21449,
+  "name": "👼游魂┃儿童专属",
+  "dupes": []
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/1.html",
+  "sites": 0,
+  "size": 20178,
+  "name": "饭太硬备用7(欧歌线)",
+  "dupes": []
+ },
+ {
+  "url": "https://jihulab.com/z-blog/xh2/raw/main/t.json",
+  "sites": 0,
+  "size": 19961,
+  "name": "荷城茶秀(备用)",
+  "dupes": []
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json",
+  "sites": 0,
+  "size": 19907,
+  "name": "环宇轩",
+  "dupes": []
+ },
+ {
+  "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+  "sites": 0,
+  "size": 19203,
+  "name": "高天流云 XYQ",
+  "dupes": []
+ },
+ {
+  "url": "https://2.nxog.eu.org/tvbox/cache/7.html",
+  "sites": 0,
+  "size": 18638,
+  "name": "小米3",
+  "dupes": [
+   "https://2.nxog.eu.org///tvbox/cache/7.html"
+  ]
+ },
+ {
+  "url": "https://www.252035.xyz/z/FongMi.json",
+  "sites": 0,
+  "size": 18346,
+  "name": "真心",
+  "dupes": []
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
+  "sites": 0,
+  "size": 18204,
+  "name": "荷城茶秀",
+  "dupes": []
+ },
+ {
+  "url": "https://pastebin.com/raw/gtbKvnE1",
+  "sites": 0,
+  "size": 14306,
+  "name": "卧龙",
+  "dupes": []
+ },
+ {
+  "url": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
+  "sites": 0,
+  "size": 12246,
+  "name": "荷城茶秀3",
+  "dupes": []
+ },
+ {
+  "url": "https://www.imwzh.com/tv.json",
+  "sites": 0,
+  "size": 12037,
+  "name": "王志豪",
+  "dupes": [
+   "https://gh-proxy.com/https://raw.githubusercontent.com/wzh15802/tvbox/main/tv.json",
+   "https://ghproxy.cxkpro.top/https://raw.githubusercontent.com/wzh15802/tvbox/main/tv.json"
+  ]
+ }
+]

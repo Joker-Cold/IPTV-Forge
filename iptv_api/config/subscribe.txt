@@ -1,0 +1,56 @@
+# 这是订阅源列表，每行一个订阅地址
+# 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
+# This is a list of subscription sources, with one subscription address per line
+# Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+#
+# 行尾数字是 2026-08-22 实测的 #EXTINF 条目数（经 host.docker.internal:7890 抓取）。
+# 解析器只取行首 URL，行尾 # 注释不会被当成 UA 参数。
+# 注意：open_auto_disable_source 已在 user_config.ini 中关闭，抓取失败不会再自动注释本文件。
+
+# === m3u.ibert.me 聚合源 ===
+# 综合聚合
+https://m3u.ibert.me/all.m3u              # 1170
+https://m3u.ibert.me/cn.m3u               # 189
+# fanmingming/live
+https://m3u.ibert.me/fmml_ipv6.m3u        # 82
+https://m3u.ibert.me/fmml_itv.m3u         # 189
+https://m3u.ibert.me/fmml_index.m3u       # 94
+# YueChan/Live (经站点)
+https://m3u.ibert.me/ycl_iptv.m3u         # 90
+# YanG-1989/m3u
+https://m3u.ibert.me/y_g.m3u              # 127
+# iptv-org
+https://m3u.ibert.me/o_all.m3u            # 10816
+https://m3u.ibert.me/o_cn.m3u             # 136
+https://m3u.ibert.me/o_s_cn.m3u           # 335
+https://m3u.ibert.me/o_s_cn_112114.m3u    # 16
+https://m3u.ibert.me/o_s_cn_cctv.m3u      # 15
+https://m3u.ibert.me/o_s_cn_cgtn.m3u      # 6
+# joevess/IPTV —— 2026-08-22 实测 HTTP 200 但只返回 7 字节，源已空
+# https://m3u.ibert.me/j_home.m3u
+# https://m3u.ibert.me/j_iptv.m3u
+# cymz6/AutoIPTV-Hotel (酒店源) —— 同上，只返回 7 字节
+# https://m3u.ibert.me/cymz6_lives.m3u
+
+# === 港澳台专用源 ===
+# ChinaIPTV（每15分钟自动更新）
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/HongKong.m3u8   # 12
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/TaiWan.m3u8     # 20
+# iptv-org（全球最大IPTV开源项目）
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u        # 19
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u        # 50
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mo.m3u        # 10
+
+# === 综合源（含港澳台） ===
+# YueChan/Live
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u                 # 90
+# suxuang/myIPTV 典藏版高清源
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u               # 1271
+# vbskycn/iptv 每日更新
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u           # 484
+# ChinaIPTV 全部频道自动更新
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8  # 71
+
+[WHITELIST]
+# 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
+# This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.

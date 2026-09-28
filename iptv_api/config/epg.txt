@@ -1,0 +1,5 @@
+# 这是EPG订阅列表，用于生成M3U结果频道菜单信息
+# This is the EPG subscription list used to generate M3U result channel menu information
+# 2026-08-22 实测：两个源均可用（经 host.docker.internal:7890）
+http://e.erw.cc/e.xml.gz              # 18288 programmes
+http://epg.51zmt.top:8000/e.xml.gz    # 7105 programmes

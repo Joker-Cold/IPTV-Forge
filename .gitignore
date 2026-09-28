@@ -1,0 +1,18 @@
+*.log
+*.tmp
+*.jsonl
+__pycache__/
+
+# 每次运行重新生成
+iptv_api/output/
+live/output/
+vod/data/cache/
+vod/data/sites_index.json
+vod/data/Cold_Movie.json.bak-*
+# docker-compose 把 live/sources 挂载到这里
+iptv_api/config/local/
+
+# 本地 / 隐私，不上传
+.claude/
+docs/
+live/sources/all_sources.m3u

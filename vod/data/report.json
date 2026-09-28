@@ -1,0 +1,1602 @@
+[
+ {
+  "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 435 sites",
+  "sites": 435,
+  "ms": 755
+ },
+ {
+  "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 298 sites",
+  "sites": 298,
+  "ms": 534
+ },
+ {
+  "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 298 sites",
+  "sites": 298,
+  "ms": 1302
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+  "name": "高天流云",
+  "verdict": "OK",
+  "info": "json config, 298 sites",
+  "sites": 298,
+  "ms": 1589
+ },
+ {
+  "url": "https://17264.kstore.space/哈基米.png",
+  "name": "哈基米",
+  "verdict": "OK",
+  "info": "json config, 167 sites",
+  "sites": 167,
+  "ms": 116
+ },
+ {
+  "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+  "name": "电视",
+  "verdict": "OK",
+  "info": "json config, 163 sites",
+  "sites": 163,
+  "ms": 671
+ },
+ {
+  "url": "https://qist.wyfc.qzz.io/jsm.json",
+  "name": "还可以使用域名",
+  "verdict": "OK",
+  "info": "json config, 163 sites",
+  "sites": 163,
+  "ms": 736
+ },
+ {
+  "url": "https://ghproxy.net/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 151 sites",
+  "sites": 151,
+  "ms": 972
+ },
+ {
+  "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+  "name": "小苹果接口",
+  "verdict": "OK",
+  "info": "json config, 136 sites",
+  "sites": 136,
+  "ms": 1010
+ },
+ {
+  "url": "https://qist.wyfc.qzz.io/xiaosa/api.json",
+  "name": "添加潇洒",
+  "verdict": "OK",
+  "info": "json config, 120 sites",
+  "sites": 120,
+  "ms": 538
+ },
+ {
+  "url": "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json",
+  "name": "添加潇洒",
+  "verdict": "OK",
+  "info": "json config, 120 sites",
+  "sites": 120,
+  "ms": 635
+ },
+ {
+  "url": "https://6800.kstore.vip/fish.json",
+  "name": "摸鱼",
+  "verdict": "OK",
+  "info": "json config, 99 sites",
+  "sites": 99,
+  "ms": 149
+ },
+ {
+  "url": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+  "name": "东篱线路",
+  "verdict": "OK",
+  "info": "json config, 93 sites",
+  "sites": 93,
+  "ms": 1066
+ },
+ {
+  "url": "https://9280.kstore.vip/newwex.json",
+  "name": "王小二放牛娃新接口",
+  "verdict": "OK",
+  "info": "json config, 84 sites",
+  "sites": 84,
+  "ms": 150
+ },
+ {
+  "url": "http://fmys.top/fmys.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 82 sites",
+  "sites": 82,
+  "ms": 1084
+ },
+ {
+  "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+  "name": "王二小",
+  "verdict": "OK",
+  "info": "json config, 67 sites",
+  "sites": 67,
+  "ms": 71
+ },
+ {
+  "url": "https://d.kstore.dev/download/9280/wex.json",
+  "name": "王二小放牛娃",
+  "verdict": "OK",
+  "info": "json config, 67 sites",
+  "sites": 67,
+  "ms": 1117
+ },
+ {
+  "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 64 sites",
+  "sites": 64,
+  "ms": 665
+ },
+ {
+  "url": "https://qist.wyfc.qzz.io/fty.json",
+  "name": "添加饭太硬",
+  "verdict": "OK",
+  "info": "json config, 50 sites",
+  "sites": 50,
+  "ms": 598
+ },
+ {
+  "url": "https://raw.githubusercontent.com/qist/tvbox/master/fty.json",
+  "name": "添加饭太硬",
+  "verdict": "OK",
+  "info": "json config, 50 sites",
+  "sites": 50,
+  "ms": 1632
+ },
+ {
+  "url": "https://dxawi.github.io/0/0.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 48 sites",
+  "sites": 48,
+  "ms": 646
+ },
+ {
+  "url": "http://ztha.top/TVBox/thdjk.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 46 sites",
+  "sites": 46,
+  "ms": 185
+ },
+ {
+  "url": "https://ztha.top/TVBox/thdjk.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 46 sites",
+  "sites": 46,
+  "ms": 198
+ },
+ {
+  "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 46 sites",
+  "sites": 46,
+  "ms": 1652
+ },
+ {
+  "url": "https://android.lushunming.qzz.io/json/index.json",
+  "name": "佬线路",
+  "verdict": "OK",
+  "info": "json config, 43 sites",
+  "sites": 43,
+  "ms": 1732
+ },
+ {
+  "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
+  "name": "短剧专线",
+  "verdict": "OK",
+  "info": "json config, 35 sites",
+  "sites": 35,
+  "ms": 339
+ },
+ {
+  "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 33 sites",
+  "sites": 33,
+  "ms": 1498
+ },
+ {
+  "url": "https://www.yingm.cc/dm/dm.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 27 sites",
+  "sites": 27,
+  "ms": 59
+ },
+ {
+  "url": "http://home.jundie.top:81/top98.json",
+  "name": "俊于",
+  "verdict": "OK",
+  "info": "json config, 24 sites",
+  "sites": 24,
+  "ms": 113
+ },
+ {
+  "url": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 23 sites",
+  "sites": 23,
+  "ms": 630
+ },
+ {
+  "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json",
+  "name": "单仓",
+  "verdict": "OK",
+  "info": "json config, 4 sites",
+  "sites": 4,
+  "ms": 816
+ },
+ {
+  "url": "https://szyyds.cn/tv/x.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "30212B application/json (no json markers, has content)",
+  "sites": 0,
+  "ms": 144
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/duo.json",
+  "name": "更新时间2025",
+  "verdict": "OK",
+  "info": "json config, 0 sites",
+  "sites": 0,
+  "ms": 147
+ },
+ {
+  "url": "https://www.wya6.cn/tv/yc.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "30444B application/json (no json markers, has content)",
+  "sites": 0,
+  "ms": 215
+ },
+ {
+  "url": "https://www.imwzh.com/tv.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 0 sites",
+  "sites": 0,
+  "ms": 307
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/dc",
+  "name": "游魂多仓",
+  "verdict": "OK",
+  "info": "json config, 0 sites",
+  "sites": 0,
+  "ms": 365
+ },
+ {
+  "url": "http://xhztv.top/xhz",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 54 sites",
+  "sites": 0,
+  "ms": 369
+ },
+ {
+  "url": "https://www.252035.xyz/z/FongMi.json",
+  "name": "真心",
+  "verdict": "OK",
+  "info": "json config, 43 sites",
+  "sites": 0,
+  "ms": 386
+ },
+ {
+  "url": "http://xhztv.top/DC.txt",
+  "name": "小盒子多仓",
+  "verdict": "OK",
+  "info": "json config, 0 sites",
+  "sites": 0,
+  "ms": 462
+ },
+ {
+  "url": "http://fty.xxooo.cf/tv",
+  "name": "",
+  "verdict": "OK",
+  "info": "20135B image/x-ms-bmp (no json markers, has content)",
+  "sites": 0,
+  "ms": 465
+ },
+ {
+  "url": "http://xhztv.top/dc/",
+  "name": "小盒子多仓",
+  "verdict": "OK",
+  "info": "1312B application/json (no json markers, has content)",
+  "sites": 0,
+  "ms": 516
+ },
+ {
+  "url": "http://xhztv.top/4k.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "30612B application/json (no json markers, has content)",
+  "sites": 0,
+  "ms": 532
+ },
+ {
+  "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 49 sites",
+  "sites": 0,
+  "ms": 566
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "79881B text/plain (no json markers, has content)",
+  "sites": 0,
+  "ms": 579
+ },
+ {
+  "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+  "name": "香雅情",
+  "verdict": "OK",
+  "info": "json config, 48 sites",
+  "sites": 0,
+  "ms": 605
+ },
+ {
+  "url": "https://raw.liucn.cc/box/m.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 234 sites",
+  "sites": 0,
+  "ms": 618
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wzh15802/tvbox/main/tv.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 0 sites",
+  "sites": 0,
+  "ms": 619
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+  "name": "香雅晴",
+  "verdict": "OK",
+  "info": "json config, 48 sites",
+  "sites": 0,
+  "ms": 626
+ },
+ {
+  "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+  "name": "宝盒VIP",
+  "verdict": "OK",
+  "info": "45331B text/plain (no json markers, has content)",
+  "sites": 0,
+  "ms": 634
+ },
+ {
+  "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/自用多仓.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "363B text/plain (no json markers, has content)",
+  "sites": 0,
+  "ms": 640
+ },
+ {
+  "url": "https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
+  "name": "橘子柚",
+  "verdict": "OK",
+  "info": "56672B text/plain (no json markers, has content)",
+  "sites": 0,
+  "ms": 663
+ },
+ {
+  "url": "https://tv.蜗牛.top/svip",
+  "name": "",
+  "verdict": "OK",
+  "info": "117040B application/octet-stream (no json markers, has content)",
+  "sites": 0,
+  "ms": 686
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json",
+  "name": "加速",
+  "verdict": "OK",
+  "info": "json config, 0 sites",
+  "sites": 0,
+  "ms": 700
+ },
+ {
+  "url": "https://gh-proxy.org/https:/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 48 sites",
+  "sites": 0,
+  "ms": 765
+ },
+ {
+  "url": "https://develop202.github.io/migu_video/interface.txt",
+  "name": "咪咕IPTV",
+  "verdict": "OK",
+  "info": "469B text/plain (no json markers, has content)",
+  "sites": 0,
+  "ms": 910
+ },
+ {
+  "url": "http://xmbjm.fh4u.org/dc.txt",
+  "name": "拾光多仓",
+  "verdict": "OK",
+  "info": "6075B text/plain (no json markers, has content)",
+  "sites": 0,
+  "ms": 932
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json",
+  "name": "无邪多仓",
+  "verdict": "OK",
+  "info": "414B text/plain (no json markers, has content)",
+  "sites": 0,
+  "ms": 932
+ },
+ {
+  "url": "https://box.iqinu.com/",
+  "name": "",
+  "verdict": "OK",
+  "info": "67662B application/json (no json markers, has content)",
+  "sites": 0,
+  "ms": 941
+ },
+ {
+  "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "188789B image/png (no json markers, has content)",
+  "sites": 0,
+  "ms": 960
+ },
+ {
+  "url": "https://ghproxy.cxkpro.top/https://raw.githubusercontent.com/wzh15802/tvbox/main/tv.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "json config, 0 sites",
+  "sites": 0,
+  "ms": 964
+ },
+ {
+  "url": "http://肥猫.net/tv",
+  "name": "肥猫",
+  "verdict": "OK",
+  "info": "32174B application/octet-stream (no json markers, has content)",
+  "sites": 0,
+  "ms": 979
+ },
+ {
+  "url": "https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+  "name": "老刘备",
+  "verdict": "OK",
+  "info": "json config, 234 sites",
+  "sites": 0,
+  "ms": 1003
+ },
+ {
+  "url": "http://550.3vcn.work/wdjyys.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "69634B application/json (no json markers, has content)",
+  "sites": 0,
+  "ms": 1060
+ },
+ {
+  "url": "https://cdn.githubraw.com/xuexuguang/tvbox_spider/main/tv/kk/heroaku_dtes.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "179240B application/json (no json markers, has content)",
+  "sites": 0,
+  "ms": 1155
+ },
+ {
+  "url": "https://raw.githubusercontent.com/maoystv/6/main/000.json",
+  "name": "分享",
+  "verdict": "OK",
+  "info": "json config, 170 sites",
+  "sites": 0,
+  "ms": 1311
+ },
+ {
+  "url": "https://live.zbds.top/tv/iptv6.txt",
+  "name": "自动扫描直播源",
+  "verdict": "OK",
+  "info": "268B text/plain (no json markers, has content)",
+  "sites": 0,
+  "ms": 1315
+ },
+ {
+  "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+  "name": "",
+  "verdict": "OK",
+  "info": "79913B text/plain (no json markers, has content)",
+  "sites": 0,
+  "ms": 1354
+ },
+ {
+  "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json",
+  "name": "推荐",
+  "verdict": "OK",
+  "info": "json config, 0 sites",
+  "sites": 0,
+  "ms": 1363
+ },
+ {
+  "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+  "name": "南风接口",
+  "verdict": "OK",
+  "info": "79881B text/plain (no json markers, has content)",
+  "sites": 0,
+  "ms": 1540
+ },
+ {
+  "url": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/001.json",
+  "name": "分享者",
+  "verdict": "OK",
+  "info": "json config, 168 sites",
+  "sites": 0,
+  "ms": 1748
+ },
+ {
+  "url": "https://live.zbds.top/tv/iptv4.txt",
+  "name": "直播电视IPV4",
+  "verdict": "OK",
+  "info": "67345B text/plain (no json markers, has content)",
+  "sites": 0,
+  "ms": 1873
+ },
+ {
+  "url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
+  "name": "",
+  "verdict": "OK",
+  "info": "57B application/json (no json markers, has content)",
+  "sites": 0,
+  "ms": 1899
+ },
+ {
+  "url": "https://raw.githubusercontent.com/hiboxs/a/main/image.png",
+  "name": "",
+  "verdict": "OK",
+  "info": "134342B image/png (no json markers, has content)",
+  "sites": 0,
+  "ms": 1930
+ },
+ {
+  "url": "https://api.hgyx.vip/hgyx.json",
+  "name": "接口",
+  "verdict": "OK",
+  "info": "9838B application/json (no json markers, has content)",
+  "sites": 0,
+  "ms": 4754
+ },
+ {
+  "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 26764B",
+  "sites": 0,
+  "ms": 69
+ },
+ {
+  "url": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJ.json",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 26764B",
+  "sites": 0,
+  "ms": 74
+ },
+ {
+  "url": "https://git.acwing.com/abai/tv/-/raw/main/huas.json",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 26764B",
+  "sites": 0,
+  "ms": 83
+ },
+ {
+  "url": "https://git.acwing.com/shhentu/lzxw/-/raw/main/Monster.json",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 26764B",
+  "sites": 0,
+  "ms": 89
+ },
+ {
+  "url": "https://git.acwing.com/lkq0379/zjys/-/raw/main/zjys.json",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 26764B",
+  "sites": 0,
+  "ms": 90
+ },
+ {
+  "url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 26764B",
+  "sites": 0,
+  "ms": 136
+ },
+ {
+  "url": "http://tv.nxog.top/m/",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 4907B",
+  "sites": 0,
+  "ms": 150
+ },
+ {
+  "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+  "name": "",
+  "verdict": "WARN",
+  "info": "tiny body 48B",
+  "sites": 0,
+  "ms": 183
+ },
+ {
+  "url": "https://www.rjjjh.com/xzbgg.json",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 29015B",
+  "sites": 0,
+  "ms": 255
+ },
+ {
+  "url": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/%E6%B5%B7%E5%85%B5%E5%BD%B1%E8%A7%86.json",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 26764B",
+  "sites": 0,
+  "ms": 334
+ },
+ {
+  "url": "http://www.饭太硬.net/tv",
+  "name": "饭太硬接口",
+  "verdict": "WARN",
+  "info": "HTML page 15457B",
+  "sites": 0,
+  "ms": 447
+ },
+ {
+  "url": "https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓",
+  "name": "影视仓",
+  "verdict": "WARN",
+  "info": "HTML page 248669B",
+  "sites": 0,
+  "ms": 632
+ },
+ {
+  "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+  "name": "南风",
+  "verdict": "WARN",
+  "info": "HTML page 114B",
+  "sites": 0,
+  "ms": 642
+ },
+ {
+  "url": "http://www.饭太硬.top/tv/",
+  "name": "饭太硬",
+  "verdict": "WARN",
+  "info": "HTML page 4696B",
+  "sites": 0,
+  "ms": 742
+ },
+ {
+  "url": "https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用单仓",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 1797B",
+  "sites": 0,
+  "ms": 774
+ },
+ {
+  "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+  "name": "霜辉月明py",
+  "verdict": "WARN",
+  "info": "HTML page 1797B",
+  "sites": 0,
+  "ms": 794
+ },
+ {
+  "url": "https://github.com/ssili126/tv",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 285404B",
+  "sites": 0,
+  "ms": 1086
+ },
+ {
+  "url": "https://github.com/takagen99/Box",
+  "name": "版本",
+  "verdict": "WARN",
+  "info": "HTML page 263332B",
+  "sites": 0,
+  "ms": 1249
+ },
+ {
+  "url": "https://github.com/FongMi/TV",
+  "name": "版本",
+  "verdict": "WARN",
+  "info": "HTML page 315789B",
+  "sites": 0,
+  "ms": 1289
+ },
+ {
+  "url": "https://xn--hiih-wn6lw489o.v.nxog.top/apia.php?id=1",
+  "name": "装B多仓",
+  "verdict": "WARN",
+  "info": "HTML page 5048B",
+  "sites": 0,
+  "ms": 1322
+ },
+ {
+  "url": "https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/apia.php?id=1",
+  "name": "装B多仓",
+  "verdict": "WARN",
+  "info": "HTML page 5051B",
+  "sites": 0,
+  "ms": 1601
+ },
+ {
+  "url": "https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt",
+  "name": "木极",
+  "verdict": "WARN",
+  "info": "tiny body 13B",
+  "sites": 0,
+  "ms": 1603
+ },
+ {
+  "url": "https://xn--anna-wn6lw489o.v.nxog.top/m/",
+  "name": "欧歌",
+  "verdict": "WARN",
+  "info": "HTML page 5026B",
+  "sites": 0,
+  "ms": 1713
+ },
+ {
+  "url": "https://xn--zp8-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌zp8",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 5214B",
+  "sites": 0,
+  "ms": 2232
+ },
+ {
+  "url": "https://xn--2qg-mf3g9f.v.nxog.top/m/111.php",
+  "name": "单仓",
+  "verdict": "WARN",
+  "info": "HTML page 5016B",
+  "sites": 0,
+  "ms": 2551
+ },
+ {
+  "url": "https://132130.v.nxog.top/api1.php?id=3",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 4982B",
+  "sites": 0,
+  "ms": 5252
+ },
+ {
+  "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+  "name": "",
+  "verdict": "WARN",
+  "info": "HTML page 5214B",
+  "sites": 0,
+  "ms": 5783
+ },
+ {
+  "url": "https://raw.iqiq.io/mengzehe/tvbox/main/自用单仓",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://php.61073736.repl.co/***.php?id={channel}",
+  "name": "地址",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://神器每日推送.tk/pz.json",
+  "name": "神器",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://100km.top/0",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+  "name": "霜辉月明py",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://ghp.ci/raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://ghp.ci/https://raw.githubusercontent.com/vbskycn/tvbox/a244f6f5c08565a9a0e319d6a3cc2e919d05d893/MY%E6%8E%A2%E6%8E%A2.txt",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://qixing.myhkw.com/DC.txt",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/0326.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/0326.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://www.macms.pro/box/3.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://gitdl.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', ConnectionAbortedError(10053, '你的主机中",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://d.kstore.space/download/2912/xx888.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://maoyingshi.cc/tiaoshizhushou/1.txt",
+  "name": "云星日记",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://d.kstore.space/download/6474/tvbox/api.json",
+  "name": "备用",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "name": "地址",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "https://cdn.gitmirror.com/bb/xduo/libs/master/index.json",
+  "name": "道长接口",
+  "verdict": "DEAD",
+  "info": "ConnectionError: ('Connection aborted.', FileNotFoundError(2, 'No such file o",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "http://www.饭太硬.com/tv",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=7890): Read timed ",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "http://www.饭太硬.com/tv/",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=7890): Read timed ",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "http://饭太硬.com/tv",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=7890): Read timed ",
+  "sites": 0,
+  "ms": 0
+ },
+ {
+  "url": "http://meowtv.cn/tv",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 33
+ },
+ {
+  "url": "http://www.lyyytv.cn/yt/yt.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 548B",
+  "sites": 0,
+  "ms": 45
+ },
+ {
+  "url": "https://chuanshuo.77blog.cn/dc.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 409B",
+  "sites": 0,
+  "ms": 49
+ },
+ {
+  "url": "http://120.79.4.185/dc.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 548B",
+  "sites": 0,
+  "ms": 73
+ },
+ {
+  "url": "https://chuanshuo.77blog.cn/tv.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 409B",
+  "sites": 0,
+  "ms": 79
+ },
+ {
+  "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 423, 98B",
+  "sites": 0,
+  "ms": 129
+ },
+ {
+  "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 401, 22B",
+  "sites": 0,
+  "ms": 135
+ },
+ {
+  "url": "http://ztha.top/ys.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 548B",
+  "sites": 0,
+  "ms": 142
+ },
+ {
+  "url": "http://ztha.top/PG/jsm.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 548B",
+  "sites": 0,
+  "ms": 149
+ },
+ {
+  "url": "https://2912.kstore.space/0506.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 401, 22B",
+  "sites": 0,
+  "ms": 159
+ },
+ {
+  "url": "https://gitee.com/okjack/okk/raw/master/op.txt",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 46B",
+  "sites": 0,
+  "ms": 160
+ },
+ {
+  "url": "https://gitee.com/dongchenliu/liu/raw/master/yb.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 423, 103B",
+  "sites": 0,
+  "ms": 161
+ },
+ {
+  "url": "https://gitee.com/wxej/wxrj/raw/master/wx.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 423, 97B",
+  "sites": 0,
+  "ms": 167
+ },
+ {
+  "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 423, 100B",
+  "sites": 0,
+  "ms": 170
+ },
+ {
+  "url": "http://www.kf666888.cn/api/tvbox/img",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 0B",
+  "sites": 0,
+  "ms": 184
+ },
+ {
+  "url": "https://gitlab.com/mfkdy/vip/-/raw/main/Lite.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 403, 5717B",
+  "sites": 0,
+  "ms": 185
+ },
+ {
+  "url": "http://ztha.top/TVBox/FLCK.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 548B",
+  "sites": 0,
+  "ms": 186
+ },
+ {
+  "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 138B",
+  "sites": 0,
+  "ms": 186
+ },
+ {
+  "url": "https://raw.gitcode.com/yydg/ggdx/raw/main/Xboxb.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 429, 151B",
+  "sites": 0,
+  "ms": 190
+ },
+ {
+  "url": "https://raw.gitcode.com/noimank/tvbox/raw/main/tvboxmuti.json",
+  "name": "的gitcode",
+  "verdict": "DEAD",
+  "info": "HTTP 429, 151B",
+  "sites": 0,
+  "ms": 215
+ },
+ {
+  "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
+  "name": "短剧",
+  "verdict": "DEAD",
+  "info": "HTTP 403, 67B",
+  "sites": 0,
+  "ms": 223
+ },
+ {
+  "url": "https://gitee.com/free-kingdom/dc/raw/main/T4.json",
+  "name": "接口",
+  "verdict": "DEAD",
+  "info": "HTTP 451, 45B",
+  "sites": 0,
+  "ms": 224
+ },
+ {
+  "url": "https://download.kstore.space/download/2863/01.txt",
+  "name": "潇洒",
+  "verdict": "DEAD",
+  "info": "HTTP 401, 22B",
+  "sites": 0,
+  "ms": 234
+ },
+ {
+  "url": "https://jihulab.com/okcaptain/kko/raw/main/ok.txt",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 401, 2309B",
+  "sites": 0,
+  "ms": 293
+ },
+ {
+  "url": "https://gitee.com/cpu-iy/iy/raw/master/%E5%A4%A9%E7%A5%9EIY.json",
+  "name": "天神IY",
+  "verdict": "DEAD",
+  "info": "HTTP 423, 97B",
+  "sites": 0,
+  "ms": 387
+ },
+ {
+  "url": "http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 481
+ },
+ {
+  "url": "https://9877.kstore.space/ONE/one.json",
+  "name": "潇洒接口",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 0B",
+  "sites": 0,
+  "ms": 512
+ },
+ {
+  "url": "http://tv.laohu.cool/tvbox.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 536
+ },
+ {
+  "url": "http://cdn.qiaoji8.com/tvbox.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 566
+ },
+ {
+  "url": "http://xhww.fun/小米/DEMO.json",
+  "name": "小米小爆脾气",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 236B",
+  "sites": 0,
+  "ms": 588
+ },
+ {
+  "url": "https://kebedd69.github.io/TVbox-interface/py甜蜜.json",
+  "name": "甜蜜",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 9379B",
+  "sites": 0,
+  "ms": 614
+ },
+ {
+  "url": "http://肥猫.com",
+  "name": "肥猫",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 650
+ },
+ {
+  "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+  "name": "哔哩学习",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 654
+ },
+ {
+  "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 669
+ },
+ {
+  "url": "http://我不是.肥猫.live/接口禁止贩卖",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 863B",
+  "sites": 0,
+  "ms": 706
+ },
+ {
+  "url": "https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 236B",
+  "sites": 0,
+  "ms": 741
+ },
+ {
+  "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 746
+ },
+ {
+  "url": "http://饭太硬.ga/深色壁纸/api.php",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 753
+ },
+ {
+  "url": "http://ygbh.live/box.php",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 767
+ },
+ {
+  "url": "https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓6.1.7-251103修复版(点配置点确定",
+  "name": "七星影仓",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 307328B",
+  "sites": 0,
+  "ms": 824
+ },
+ {
+  "url": "https://xhdwc.tk/0",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 402, 78B",
+  "sites": 0,
+  "ms": 828
+ },
+ {
+  "url": "http://tt.iitvba.com/vip/tv.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 846
+ },
+ {
+  "url": "http://meowtv.top/tv",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 924
+ },
+ {
+  "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 14B",
+  "sites": 0,
+  "ms": 961
+ },
+ {
+  "url": "http://www.fish2018.us.kg/p/jsm.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 974
+ },
+ {
+  "url": "http://ok321.top/ok",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 1045
+ },
+ {
+  "url": "http://mzjk.top/DC",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 1879B",
+  "sites": 0,
+  "ms": 1073
+ },
+ {
+  "url": "http://www.饭太硬.xyz/tv",
+  "name": "饭太硬",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 1080
+ },
+ {
+  "url": "http://ok213.top/ok",
+  "name": "影视公开接口",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 1340
+ },
+ {
+  "url": "https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+  "name": "潇洒AI直播",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 14B",
+  "sites": 0,
+  "ms": 1406
+ },
+ {
+  "url": "https://9877.kstore.space/AnotherDS/api.json",
+  "name": "潇洒单仓",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 0B",
+  "sites": 0,
+  "ms": 1410
+ },
+ {
+  "url": "http://www.mpanso.com/小米/DEMO.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 236B",
+  "sites": 0,
+  "ms": 1452
+ },
+ {
+  "url": "http://ww.weidonglong.com/ysc50311.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 1477
+ },
+ {
+  "url": "https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+  "name": "佰欣园",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 14B",
+  "sites": 0,
+  "ms": 1510
+ },
+ {
+  "url": "http://ok213.top/tv",
+  "name": "影视内部接口",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 1551
+ },
+ {
+  "url": "http://yuhuahx.com/育华学堂/斧头帮.php",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 1788
+ },
+ {
+  "url": "https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+  "name": "霜辉月明py",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 14B",
+  "sites": 0,
+  "ms": 1827
+ },
+ {
+  "url": "http://www.meowtv.vip/tvbox.json",
+  "name": "喵影视",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 1832
+ },
+ {
+  "url": "http://pt.sxtv.top:66/sx.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 1919
+ },
+ {
+  "url": "http://饭太硬.ga/x/o.json",
+  "name": "饭太硬",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 2034
+ },
+ {
+  "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json",
+  "name": "胖虎",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 8010B",
+  "sites": 0,
+  "ms": 2258
+ },
+ {
+  "url": "http://饭.eu.org/深色壁纸/api.php",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 2481
+ },
+ {
+  "url": "https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓-V3版-安卓4.x系统专用(点配置点确定",
+  "name": "七星影仓V3",
+  "verdict": "DEAD",
+  "info": "HTTP 404, 307820B",
+  "sites": 0,
+  "ms": 2660
+ },
+ {
+  "url": "http://124.71.189.194/a.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 5018
+ },
+ {
+  "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 5050
+ },
+ {
+  "url": "http://xhww.fun:63/小米/DEMO.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 6407
+ },
+ {
+  "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 6418
+ },
+ {
+  "url": "http://8.210.232.168/xc.json",
+  "name": "",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 6469
+ },
+ {
+  "url": "http://pandown.pro/tvbox/tvbox.json",
+  "name": "巧技",
+  "verdict": "DEAD",
+  "info": "HTTP 502, 0B",
+  "sites": 0,
+  "ms": 6476
+ }
+]

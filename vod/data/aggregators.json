@@ -1,0 +1,58 @@
+[
+ {
+  "url": "http://xmbjm.fh4u.org/dc.txt",
+  "sites": 0,
+  "size": 6075,
+  "name": "拾光多仓",
+  "dupes": []
+ },
+ {
+  "url": "http://120.46.39.251/tvbox/duo.json",
+  "sites": 0,
+  "size": 2036,
+  "name": "120",
+  "dupes": []
+ },
+ {
+  "url": "http://xhztv.top/DC.txt",
+  "sites": 0,
+  "size": 1949,
+  "name": "小盒子多仓",
+  "dupes": []
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json",
+  "sites": 0,
+  "size": 1906,
+  "name": "健康家用2",
+  "dupes": []
+ },
+ {
+  "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json",
+  "sites": 0,
+  "size": 1905,
+  "name": "健康家用3",
+  "dupes": []
+ },
+ {
+  "url": "https://www.iyouhun.com/tv/dc",
+  "sites": 0,
+  "size": 1734,
+  "name": "游魂多仓",
+  "dupes": []
+ },
+ {
+  "url": "http://xhztv.top/dc/",
+  "sites": 0,
+  "size": 1312,
+  "name": "小盒子多仓2",
+  "dupes": []
+ },
+ {
+  "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/自用多仓.json",
+  "sites": 0,
+  "size": 363,
+  "name": "felixiao-TVBoxSource",
+  "dupes": []
+ }
+]

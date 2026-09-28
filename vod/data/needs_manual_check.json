@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json",
+  "sites": 4,
+  "size": 1145,
+  "name": "doki",
+  "dupes": []
+ },
+ {
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json",
+  "sites": 0,
+  "size": 414,
+  "name": "无邪多仓",
+  "dupes": []
+ },
+ {
+  "url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
+  "sites": 0,
+  "size": 57,
+  "name": "api-hailin",
+  "dupes": []
+ }
+]
