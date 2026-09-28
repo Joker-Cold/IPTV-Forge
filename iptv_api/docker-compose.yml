@@ -1,3 +1,6 @@
+# fixed project name, so it does not follow whatever the checkout folder is called
+name: iptv-forge
+
 services:
   iptv-api:
     image: guovern/iptv-api:latest
