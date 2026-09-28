@@ -33,5 +33,7 @@ MULTI_BAK = MULTI + ".bak"      # the hand-curated original list, if kept
 SELECTED = os.path.join(OUTPUT, "selected_12.json")   # one JSON object per line
 VERIFY_REPORT = os.path.join(OUTPUT, "verify_report.md")
 
-# publish target: the HK-IPTV repo sitting next to this project
-COLD_MOVIE = os.path.normpath(os.path.join(HERE, "..", "..", "HK-IPTV", "Cold_Movie.json"))
+# publish target: the HK-IPTV repo sitting next to this project - or, in a
+# checkout without one, output/ like everything else
+PUBLISH = os.path.normpath(os.path.join(HERE, "..", "..", "HK-IPTV"))
+COLD_MOVIE = os.path.join(PUBLISH if os.path.isdir(PUBLISH) else OUTPUT, "Cold_Movie.json")

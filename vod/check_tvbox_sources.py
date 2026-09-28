@@ -111,8 +111,12 @@ def main():
         proxies = {"http": p, "https": p}
 
     with open(path, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    entries = data["urls"]
+        text = f.read()
+    # like TVBox, tolerate // lines and trailing commas: Cold_Movie.json keeps
+    # its dead entries around commented out
+    text = re.sub(r"^\s*//.*$", "", text, flags=re.M)
+    text = re.sub(r",\s*([}\]])", r"\1", text)
+    entries = json.loads(text)["urls"]
 
     results = [None] * len(entries)
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:

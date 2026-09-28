@@ -2,6 +2,8 @@
 """
 Rewrite ../HK-IPTV/Cold_Movie.json = the 12 picks + whatever of the
 user's own entries is still alive and not a duplicate of one of them.
+Without an HK-IPTV checkout the file is output/Cold_Movie.json, see paths.py;
+on the first run there it is just the 12 picks.
 
 Keeps that file's existing conventions:
   - name suffix [优质] / [一般]
@@ -89,19 +91,23 @@ def main():
     pick_sigs = [(p, S.sig(idx[p["url"]])) for p in picks]
     pick_urls = {p["url"] for p in picks}
 
-    existing = parse_existing(TARGET)
+    existing = parse_existing(TARGET) if os.path.exists(TARGET) else []
     print("existing entries: %d (%d active, %d commented)"
           % (len(existing), sum(1 for e in existing if not e[2]),
              sum(1 for e in existing if e[2])))
 
     keep, drop = [], []
+    seen = set(pick_urls)
     for url, name, was_commented in existing:
+        # the picks are written below anyway - on a re-run last time's picks
+        # come back through here, and listing them again (commented out) would
+        # pile up another copy every run
+        if url in seen:
+            continue
+        seen.add(url)
         label = re.sub(r"^[🚀\d\-]+", "", name)
         tag = "[优质]" if "[优质]" in name else "[一般]"
         base = re.sub(r"\[(优质|一般)\]", "", label).strip()
-        if url in pick_urls:
-            drop.append((url, base, tag, "已包含在精选中"))
-            continue
         alive, note, sg = probe(url)
         if not alive:
             drop.append((url, base, tag, "❌失效(%s)" % note))
@@ -151,7 +157,7 @@ def main():
     L += ["    ]", "}", ""]
 
     bak = os.path.join(P.DATA, "Cold_Movie.json.bak-" + time.strftime("%Y%m%d"))
-    if not os.path.exists(bak):
+    if os.path.exists(TARGET) and not os.path.exists(bak):
         shutil.copy2(TARGET, bak)
         print("\nbacked up -> %s" % bak)
     open(TARGET, "w", encoding="utf-8").write("\n".join(L))

@@ -16,3 +16,7 @@ iptv_api/config/local/
 .claude/
 docs/
 live/sources/all_sources.m3u
+
+# 界面程序发布在 GitHub Releases，不入库：python gui/build_exe.py --zip 生成
+/IPTV-Forge.exe
+/release/

@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>IPTV-Forge</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+
+  <!-- ============================================================ sidebar -->
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="logo">
+        <svg viewBox="0 0 40 40"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#6366f1"/></linearGradient></defs>
+          <rect width="40" height="40" rx="11" fill="url(#lg)"/>
+          <rect x="9" y="12" width="22" height="15" rx="3" fill="none" stroke="#fff" stroke-width="2.4"/>
+          <path d="M18 16.5v6l5-3z" fill="#fff"/><path d="M15 31h10" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div>
+        <div class="brand-name">IPTV-Forge</div>
+        <div class="brand-sub">直播 · 点播 一键筛选</div>
+      </div>
+    </div>
+    <nav>
+      <button class="nav-item active" data-page="live"><i data-icon="tv"></i><span>直播</span><b class="busy-dot"></b></button>
+      <button class="nav-item" data-page="vod"><i data-icon="film"></i><span>点播</span><b class="busy-dot"></b></button>
+      <button class="nav-item" data-page="subs"><i data-icon="link"></i><span>订阅地址</span></button>
+    </nav>
+    <div class="sidebar-foot">
+      <button class="nav-item" id="theme"><i data-icon="moon"></i><span>深色模式</span></button>
+    </div>
+  </aside>
+
+  <main>
+    <!-- ============================================================ live -->
+    <section class="page active" id="page-live">
+      <header class="page-head">
+        <h1>直播源</h1>
+        <p>在线订阅 + 本地源 → 逐个测速 → 港澳台优先、其余按大洲分组 → 一份能直接订阅的 m3u</p>
+      </header>
+
+      <div class="grid">
+        <div class="card hero span-2" id="live-hero">
+          <div class="hero-top">
+            <div>
+              <div class="hero-title">一键更新直播源</div>
+              <div class="hero-sub">全程约 15 分钟，跑完自动收尾；关掉窗口前记得等它结束</div>
+            </div>
+            <div class="hero-actions">
+              <button class="btn ghost" data-stop="live" disabled><i data-icon="stop"></i>停止</button>
+              <button class="btn primary lg" id="live-go"><i data-icon="play"></i>一键更新</button>
+            </div>
+          </div>
+          <ol class="stepper" data-steps="live"></ol>
+          <div class="progress"><div class="bar" data-bar="live"></div></div>
+          <div class="hero-foot"><span data-state="live">就绪</span><span data-time="live"></span></div>
+        </div>
+
+        <div class="card stat">
+          <div class="stat-icon blue"><i data-icon="tv"></i></div>
+          <div class="stat-label">可用频道</div>
+          <div class="stat-value" id="live-total">—</div>
+          <div class="stat-sub" id="live-time">—</div>
+          <div class="stat-foot"><button class="chip" data-open="live_product"><i data-icon="file"></i>打开结果文件</button></div>
+        </div>
+        <div class="card stat">
+          <div class="stat-icon purple"><i data-icon="star"></i></div>
+          <div class="stat-label">港 · 澳 · 台</div>
+          <div class="stat-value" id="live-hmt">—</div>
+          <div class="stat-sub">港澳台频道单独成组，排在最前</div>
+          <div class="stat-foot"><div class="ratio" id="live-hmt-ratio"></div><div class="legend" id="live-hmt-legend"></div></div>
+        </div>
+
+        <div class="card span-2">
+          <div class="card-head"><h3>地区分布</h3><span class="muted" id="live-file"></span></div>
+          <div class="bars" id="live-groups"></div>
+        </div>
+
+        <div class="card span-2">
+          <div class="card-head"><h3>运行环境</h3>
+            <button class="icon-btn" id="env-refresh" title="重新检测"><i data-icon="refresh"></i></button></div>
+          <ul class="checks" id="env"></ul>
+        </div>
+
+        <div class="card span-2">
+          <div class="card-head"><h3>高级选项</h3><span class="muted">一般不用动</span></div>
+          <div class="toggles">
+            <label class="toggle"><input type="checkbox" data-flag="--no-docker"><span class="switch"></span>
+              <span><b>不跑容器</b><small>直接把上次的抓取结果重新分组</small></span></label>
+            <label class="toggle"><input type="checkbox" data-flag="--no-publish"><span class="switch"></span>
+              <span><b>只生成不发布</b><small>结果留在 live/output，不复制到 HK-IPTV</small></span></label>
+            <label class="toggle"><input type="checkbox" data-flag="--keep-running"><span class="switch"></span>
+              <span><b>跑完不停容器</b><small>否则容器会停掉，免得它按 12 小时自己再跑</small></span></label>
+            <label class="toggle"><input type="checkbox" data-flag="--force"><span class="switch"></span>
+              <span><b>强制发布</b><small>跳过「条目数骤减一半」等安全检查</small></span></label>
+          </div>
+        </div>
+
+        <div class="card span-2">
+          <div class="card-head"><h3>快捷操作</h3></div>
+          <div class="chip-group">
+            <div class="chip-label">改配置</div>
+            <button class="chip" data-open="subscribe"><i data-icon="file"></i>在线订阅</button>
+            <button class="chip" data-open="demo"><i data-icon="file"></i>频道模板</button>
+            <button class="chip" data-open="alias"><i data-icon="file"></i>频道别名</button>
+            <button class="chip" data-open="config"><i data-icon="sliders"></i>测速 / 代理</button>
+            <button class="chip" data-open="epg"><i data-icon="file"></i>EPG</button>
+          </div>
+          <div class="chip-group">
+            <div class="chip-label">看结果</div>
+            <button class="chip" data-open="live_product"><i data-icon="file"></i>结果文件</button>
+            <button class="chip" data-open="live_sources"><i data-icon="folder"></i>本地源目录</button>
+            <button class="chip" data-open="live_output"><i data-icon="folder"></i>输出目录</button>
+          </div>
+          <div class="chip-group">
+            <div class="chip-label">Docker</div>
+            <button class="chip" data-docker="logs"><i data-icon="terminal"></i>容器日志</button>
+            <button class="chip" data-docker="stop"><i data-icon="stop"></i>停止容器</button>
+            <button class="chip" data-docker="pull"><i data-icon="download"></i>更新镜像</button>
+          </div>
+          <div class="chip-group publish-only">
+            <div class="chip-label">发布</div>
+            <button class="chip accent" data-publish="live"><i data-icon="upload"></i>提交并推送 HK-IPTV</button>
+          </div>
+        </div>
+
+        <div class="card log-card span-4">
+          <div class="card-head"><h3><i data-icon="terminal"></i>运行日志</h3>
+            <button class="icon-btn" data-clear="live" title="清空"><i data-icon="trash"></i></button></div>
+          <div class="log" data-log="live"><div class="log-empty">点「一键更新」开始，过程会实时显示在这里</div></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================ vod -->
+    <section class="page" id="page-vod">
+      <header class="page-head">
+        <h1>点播仓</h1>
+        <p>TVBox / 影视仓：从公开收集的候选接口里挑出活的 → 按内容去重 → 选出 12 个互不重复的精选 → 生成多仓配置</p>
+      </header>
+
+      <div class="grid">
+        <div class="card hero span-2">
+          <div class="hero-top">
+            <div>
+              <div class="hero-title">一键筛选点播仓</div>
+              <div class="hero-sub" id="vod-sub">不需要 Docker，有网就行，几分钟跑完</div>
+            </div>
+            <div class="hero-actions">
+              <button class="btn ghost" data-stop="vod" disabled><i data-icon="stop"></i>停止</button>
+              <button class="btn primary lg" id="vod-go"><i data-icon="zap"></i>一键筛选</button>
+            </div>
+          </div>
+          <ol class="stepper" data-steps="vod"></ol>
+          <div class="progress"><div class="bar" data-bar="vod"></div></div>
+          <div class="hero-foot"><span data-state="vod">就绪</span><span data-time="vod"></span></div>
+        </div>
+
+        <div class="card stat">
+          <div class="stat-icon green"><i data-icon="check"></i></div>
+          <div class="stat-label">多仓里可用</div>
+          <div class="stat-value" id="vod-active">—</div>
+          <div class="stat-sub" id="vod-time">—</div>
+          <div class="stat-foot"><div class="ratio" id="vod-ratio"></div><div class="legend" id="vod-legend"></div></div>
+        </div>
+        <div class="card stat">
+          <div class="stat-icon orange"><i data-icon="search"></i></div>
+          <div class="stat-label">候选接口</div>
+          <div class="stat-value" id="vod-cands">—</div>
+          <div class="stat-sub">每次都逐个重新探测</div>
+          <div class="stat-foot"><button class="chip" data-open="candidates"><i data-icon="file"></i>查看候选接口</button></div>
+        </div>
+
+        <div class="card span-2">
+          <div class="card-head"><h3>本期 12 精选</h3><span class="muted">内容互不重复</span></div>
+          <div class="picks" id="vod-picks"></div>
+        </div>
+
+        <div class="card span-2">
+          <div class="card-head"><h3>结果</h3></div>
+          <div class="result-file">
+            <i data-icon="file"></i>
+            <div><b id="vod-file">—</b><small>影视仓 / TVBox 的「多仓」地址填这个文件（或它发布后的链接）</small></div>
+          </div>
+          <div class="chip-group">
+            <button class="chip" data-open="cold_movie"><i data-icon="file"></i>打开多仓配置</button>
+            <button class="chip" data-open="report"><i data-icon="file"></i>验证报告</button>
+            <button class="chip" data-open="vod_output"><i data-icon="folder"></i>输出目录</button>
+          </div>
+          <div class="chip-group publish-only">
+            <button class="chip accent" data-publish="vod"><i data-icon="upload"></i>提交并推送 HK-IPTV</button>
+          </div>
+        </div>
+
+        <div class="card span-2">
+          <div class="card-head"><h3>高级：只跑部分步骤</h3>
+            <div class="seg">
+              <button data-preset="all">全部</button><button data-preset="4567">4→7 重选</button><button data-preset="">清空</button>
+            </div>
+          </div>
+          <div class="step-list" id="vod-steps"></div>
+          <label class="toggle compact"><input type="checkbox" id="vod-fresh"><span class="switch"></span>
+            <span><b>第 4 步前清空下载缓存</b><small>强制重新下载每个仓的配置</small></span></label>
+          <button class="btn soft" id="vod-run-picked"><i data-icon="play"></i>运行勾选步骤</button>
+        </div>
+
+        <div class="card span-2">
+          <div class="card-head"><h3>体检一个多仓文件</h3><span class="muted">逐个请求，看哪些还活着</span></div>
+          <div class="field">
+            <label>文件</label>
+            <div class="input-row">
+              <input id="check-file" spellcheck="false">
+              <button class="btn soft" id="check-browse"><i data-icon="folder"></i>浏览</button>
+            </div>
+          </div>
+          <div class="field">
+            <label>代理 <small>可空，如 http://127.0.0.1:7890</small></label>
+            <input id="check-proxy" spellcheck="false" placeholder="直连">
+          </div>
+          <button class="btn soft" id="check-go"><i data-icon="activity"></i>开始体检</button>
+        </div>
+
+        <div class="card log-card span-4">
+          <div class="card-head"><h3><i data-icon="terminal"></i>运行日志</h3>
+            <button class="icon-btn" data-clear="vod" title="清空"><i data-icon="trash"></i></button></div>
+          <div class="log" data-log="vod"><div class="log-empty">点「一键筛选」开始，过程会实时显示在这里</div></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================ subscriptions -->
+    <section class="page" id="page-subs">
+      <header class="page-head">
+        <h1>订阅地址</h1>
+        <p>不想自己跑？下面是作者定期筛好的成品，复制到播放器里就能看</p>
+      </header>
+
+      <div class="grid">
+        <div class="card sub span-4">
+          <div class="stat-icon blue"><i data-icon="tv"></i></div>
+          <div class="sub-body">
+            <h3>直播 · 港澳台优先</h3>
+            <p>TiviMate、APTV、IPTV Pro、PotPlayer 等播放器里「添加播放列表 / 直播源」</p>
+            <code>https://joker-cold.github.io/HK-IPTV/COLD_OK.m3u8</code>
+          </div>
+          <button class="btn primary" data-copy="https://joker-cold.github.io/HK-IPTV/COLD_OK.m3u8"><i data-icon="copy"></i>复制</button>
+        </div>
+        <div class="card sub span-4">
+          <div class="stat-icon green"><i data-icon="film"></i></div>
+          <div class="sub-body">
+            <h3>点播 · 多仓（本工具筛出的 12 精选 + 自选）</h3>
+            <p>影视仓 / TVBox 设置里的「多仓」或「配置地址」</p>
+            <code>https://joker-cold.github.io/HK-IPTV/Cold_Movie.json</code>
+          </div>
+          <button class="btn primary" data-copy="https://joker-cold.github.io/HK-IPTV/Cold_Movie.json"><i data-icon="copy"></i>复制</button>
+        </div>
+        <div class="card sub span-4">
+          <div class="stat-icon purple"><i data-icon="film"></i></div>
+          <div class="sub-body">
+            <h3>点播 · 单仓（手工维护，已去除成人内容）</h3>
+            <p>影视仓 / TVBox 设置里的「配置地址」</p>
+            <code>https://joker-cold.github.io/HK-IPTV/COLD_OK.json</code>
+          </div>
+          <button class="btn primary" data-copy="https://joker-cold.github.io/HK-IPTV/COLD_OK.json"><i data-icon="copy"></i>复制</button>
+        </div>
+        <div class="card span-4 note">
+          <b>想要自己的版本？</b> 在「直播」「点播」页点一下一键按钮，结果就在本地：
+          直播 <code id="note-live">live/output/COLD_result.m3u</code>，点播 <code id="note-vod">vod/output/Cold_Movie.json</code>。
+          所有接口均收集自互联网公开分享，随时可能失效，仅供个人学习使用。
+        </div>
+      </div>
+    </section>
+  </main>
+</div>
+
+<!-- ============================================================ overlays -->
+<div class="modal" id="modal" hidden>
+  <div class="modal-box">
+    <h3 id="modal-title"></h3>
+    <p id="modal-text"></p>
+    <input id="modal-input" hidden spellcheck="false">
+    <div class="modal-actions">
+      <button class="btn ghost" id="modal-cancel">取消</button>
+      <button class="btn primary" id="modal-ok">确定</button>
+    </div>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
