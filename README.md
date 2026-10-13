@@ -12,7 +12,7 @@
 ![免安装](https://img.shields.io/badge/%E5%85%8D%E5%AE%89%E8%A3%85-%E4%B8%8D%E7%94%A8%E8%A3%85%20Python-16a34a)
 ![界面](https://img.shields.io/badge/%E7%95%8C%E9%9D%A2-%E6%B5%85%E8%89%B2%20%2F%20%E6%B7%B1%E8%89%B2-6366f1)
 
-### [⬇️ 下载 IPTV-Forge-windows.zip](https://github.com/Joker-Cold/IPTV-Forge/releases/latest/download/IPTV-Forge-windows.zip)
+### [⬇️ 前往 Releases 下载](https://github.com/Joker-Cold/IPTV-Forge/releases)
 
 <img src="assets/vod.webp" width="880" alt="点播一键筛选：8 个步骤全部完成，选出 12 个互不重复的精选仓">
 
@@ -32,7 +32,7 @@
 
 ## ⚡ 想要自己的版本：三步
 
-1. **下载**：[Releases](https://github.com/Joker-Cold/IPTV-Forge/releases/latest) 里的 **`IPTV-Forge-windows.zip`**（[直接下载](https://github.com/Joker-Cold/IPTV-Forge/releases/latest/download/IPTV-Forge-windows.zip)），解压到任意位置
+1. **下载**：[Releases](https://github.com/Joker-Cold/IPTV-Forge/releases) 页面里的 IPTV-Forge-windows.zip，解压到任意位置
 2. **双击** 解压出来的 `IPTV-Forge.exe`
 3. **点一下**：点播页「一键筛选」，直播页「一键更新」
 
